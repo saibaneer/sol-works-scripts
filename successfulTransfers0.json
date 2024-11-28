@@ -1,0 +1,22 @@
+[
+  {
+    "recipient": "7Q4F9bFnoWXtKMxwwLhzL14M7V4DWNX3dcANLSnybSfU",
+    "signature": "4vcC2JMPRVki8nJEkcaWbjf6AmHSid43RSmM9cpznJ7tHDnZhpB5TyKZs8oXbmb9LveXDgwa67R88zbYgnyFWd4d",
+    "amount": 1
+  },
+  {
+    "recipient": "33d6q6g65XhsAiW99RMUnQeqU29pX6yMawogQg7GtPQU",
+    "signature": "N8C6feLp7aA2V8BJHkC9VLomNPvT5kpox1XsxaM2qxafucoMwTgSBKx6vKnEoYTLcGcxDhCn3VhgGXCRcbiqNgg",
+    "amount": 1
+  },
+  {
+    "recipient": "GoxPqE1bN2HetSGLQREJHHE76fTxzznRbZnsCt7Apump",
+    "signature": "3QfvLLK6BYmtoYFEeD3kyUsW2CDymSFevk2MsQ6ULfmx7Z4Njq3MkGcU9vmDYk1z5LDn4jRbxHDQoriopNy5azJ6",
+    "amount": 1
+  },
+  {
+    "recipient": "DCURDhS5do6w9EytNmFxUNp3kYqXxfkv61Gs7FtLcH5a",
+    "signature": "5EXJtWJNNkFRCyDSZNL7HwTFevZNTZuD9FUchSFFF2WRxaergiYFeRVEQZTzEuLvUGRyotPGVAXuV2s3czkpwmSi",
+    "amount": 1
+  }
+]
